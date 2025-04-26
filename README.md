@@ -6,46 +6,45 @@ Cypher is a Python-based virtual assistant that listens, responds, and performs 
 ---
 
 ## Features 🔥
-🎤 Voice Recognition — Understands your voice commands.
-🗣️ Text-to-Speech — Talks back naturally.
-🌐 Wikipedia Search — Instantly fetches summaries.
-📰 Latest News — Real-time top headlines.
-🌦️ Weather Updates — Temperature, humidity, and forecasts.
-🎮 Mini Games — Play Stone-Paper-Scissors and Guess the Number.
-🎬 Launch/Close Apps — Valorant, Steam, Epic Games, Telegram, VS Code, and more.
-📸 Screenshots — Take snapshots by voice.
-📧 Email Sending — Send emails automatically.
-📍 Location Finder — Tells your current city and country.
-🧠 Simple Calculations — Voice-based math ops (addition, subtraction, etc.).
-❓ Answer Any Question — Powered by WolframAlpha.
-😄 Crack Jokes & Chat — Light conversations to keep you entertained.
-⚡ System Commands — Shutdown, restart, and more.
+- 🎤 Voice Recognition — Understands your voice commands.
+- 🗣️ Text-to-Speech — Talks back naturally.
+- 🌐 Wikipedia Search — Instantly fetches summaries.
+- 📰 Latest News — Real-time top headlines.
+- 🌦️ Weather Updates — Temperature, humidity, and forecasts.
+- 🎮 Mini Games — Play Stone-Paper-Scissors and Guess the Number.
+- 🎬 Launch/Close Apps — Valorant, Steam, Epic Games, Telegram, VS Code, and more.
+- 📸 Screenshots — Take snapshots by voice.
+- 📧 Email Sending — Send emails automatically.
+- 📍 Location Finder — Tells your current city and country.
+- 🧠 Simple Calculations — Voice-based math ops (addition, subtraction, etc.).
+- ❓ Answer Any Question — Powered by WolframAlpha.
+- 😄 Crack Jokes & Chat — Light conversations to keep you entertained.
+- ⚡ System Commands — Shutdown, restart, and more.
 
 ---
 
 ## Tech Stack 🛠️
-Python 3
-pyttsx3
-SpeechRecognition
-Wikipedia API
-NewsAPI
-OpenWeatherMap API
-WolframAlpha API
-pyjokes
-pyautogui
+- Python 3
+- pyttsx3
+- SpeechRecognition
+- Wikipedia API
+- NewsAPI
+- OpenWeatherMap API
+- WolframAlpha API
+- pyjokes
+- pyautogui
 
 ---
 
 ## Author 🌟
 Mukund Taneja 👨‍💻
-Powered by APIs and pure hustle 💪
 
 ---
 
 ## 🚀 The Journey Continues...
 Cypher marks the beginning.
 The future?
-Machine Learning, AI, Deep Learning, and beyond. 🌌
+- Machine Learning, AI, Deep Learning, and beyond. 🌌
 
 ## 🔥 Stay tuned for Cypher 2.0... Coming soon.
 
